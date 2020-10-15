@@ -1,0 +1,6 @@
+/target/
+*.log
+/SeleniumLogs/
+/reports/
+/test-output/
+*.metadata
